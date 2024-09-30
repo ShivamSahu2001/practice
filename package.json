@@ -14,8 +14,8 @@
   ],
   "author": "Shivam Sahu",
   "license": "ISC",
-  "dependencies": {
-    "D": "^1.0.0",
-    "nodemon": "^3.1.7"
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
   }
 }
